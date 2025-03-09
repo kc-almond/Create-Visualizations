@@ -271,4 +271,4 @@ def year_graphs(entered_year):
 if __name__ == "__main__":
     app.run_server()  # Start the web server to run the dashboard
 
-#This python is references to rheera in github and added explanation. ONLY for practice project and will delete this soon to make my own.
+#This python is in reference to rheera's work here in github and added explanation. ONLY for practice project and will delete this soon to make my own.
